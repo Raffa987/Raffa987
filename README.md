@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-<!--
-**Raffa987/Raffa987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Second-year Computer Science student @ University of Catania (UNICT) 🇮🇹<br>
+  Low-level C programming · Unix/OS internals · Linux ricing · Getting into Cybersecurity
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+
+- 🎓 Studying Computer Science at **UNICT**, currently focused on Unix systems and preparing to dive into Cybersecurity.
+- 🛠️ I like understanding how things work under the hood — from syscalls to window managers.
+- 🐧 Daily driver: hand-built **NixOS**, running **Hyprland** + **AGS** (still very much a work in progress).
+- 🇬🇧 English level: **B2**.
+
+### What I've been building
+
+- **[system-stats-lib](#)** — a C library that talks directly to the Linux system interfaces to expose CPU, GPU and RAM statistics, used to feed real-time data into my AGS-based status bar.
+- **[nixos-config](#)** — my personal NixOS + Hyprland + AGS setup, built declaratively from scratch. Still evolving.
+- **[raylib-game](#)** — a small game built with raylib to get hands-on with game loops, state management and C in a "fun constraints" context.
+
+*(replace the `#` links above with your actual repo URLs once this is live)*
+
+### Currently learning / interested in
+
+`Cybersecurity` `Unix internals` `Systems programming in C` `Linux from scratch (kind of)` `Nix/NixOS`
+
+### Tech I use
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raffa987&show_icons=true&theme=default" height="150"/>
+</p>
+
+
+---
+
+<p align="center"><i>Open to internships / junior roles in systems, backend or security-adjacent work.</i></p>
