@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  Second-year Computer Science student @ University of Catania (UNICT) 🇮🇹<br>
-  Low-level C programming · Unix/OS internals · Linux ricing · Getting into Cybersecurity
+  Second year Computer Science student @ University of Catania (UNICT) 🇮🇹<br>
+  Low level C programming · Unix/OS internals · Linux ricing · Getting into Cybersecurity
 </p>
 
 ---
@@ -10,17 +10,15 @@
 ### About me
 
 - 🎓 Studying Computer Science at **UNICT**, currently focused on Unix systems and preparing to dive into Cybersecurity.
-- 🛠️ I like understanding how things work under the hood — from syscalls to window managers.
+- 🛠️ I like understanding how things work under the hood, from syscalls to window managers.
 - 🐧 Daily driver: hand-built **NixOS**, running **Hyprland** + **AGS** (still very much a work in progress).
 - 🇬🇧 English level: **B2**.
 
 ### What I've been building
 
-- **[system-stats-lib](#)** — a C library that talks directly to the Linux system interfaces to expose CPU, GPU and RAM statistics, used to feed real-time data into my AGS-based status bar.
-- **[nixos-config](#)** — my personal NixOS + Hyprland + AGS setup, built declaratively from scratch. Still evolving.
-- **[raylib-game](#)** — a small game built with raylib to get hands-on with game loops, state management and C in a "fun constraints" context.
-
-*(replace the `#` links above with your actual repo URLs once this is live)*
+- **[system-stats-lib](https://github.com/Raffa987/libmystats)**: a C library that talks directly to the Linux system interfaces to expose CPU, GPU and RAM statistics, used to feed real-time data into my AGS-based status bar.
+- **[.nixos](https://github.com/Raffa987/.nixos)**: my personal NixOS + Hyprland + AGS setup, built declaratively from scratch. Still evolving.
+- **[raylib-game](https://github.com/Raffa987/Game-raylib)**: a small game built with raylib to get started with game loops, state management and C in a "fun constraints" context.
 
 ### Currently learning / interested in
 
@@ -36,4 +34,4 @@
 
 ---
 
-<p align="center"><i>Open to internships / junior roles in systems, backend or security-adjacent work.</i></p>
+<p align="center"><i>Open to internships / junior roles in systems, backend or security adjacent work.</i></p>
