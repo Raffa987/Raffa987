@@ -16,7 +16,7 @@
 
 ### What I've been building
 
-- **[system-stats-lib](https://github.com/Raffa987/libmystats)**: a C library that talks directly to the Linux system interfaces to expose CPU, GPU and RAM statistics, used to feed real-time data into my AGS-based status bar.
+- **[libmystats](https://github.com/Raffa987/libmystats)**: a C library that talks directly to the Linux system interfaces to expose CPU, GPU and RAM statistics, used to feed real-time data into my AGS-based status bar.
 - **[.nixos](https://github.com/Raffa987/.nixos)**: my personal NixOS + Hyprland + AGS setup, built declaratively from scratch. Still evolving.
 - **[raylib-game](https://github.com/Raffa987/Game-raylib)**: a small game built with raylib to get started with game loops, state management and C in a "fun constraints" context.
 
